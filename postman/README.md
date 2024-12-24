@@ -1,5 +1,14 @@
 # Postman: API 설계 및 테스트를 위한 플랫폼
 
+<br/>
+
+<code><img height = "370"
+src = https://github.com/user-attachments/assets/165e040f-189e-49c7-a36c-91579268c4ae></code>
+
+<br/>
+
+## 개요
+
 [Postman](https://www.postman.com/)은 API를 설계, 빌드, 테스트, 문서화, 공유, 그리고 모니터링할 수 있는 올인원 플랫폼입니다.  
 프론트엔드와 백엔드 개발자, QA 엔지니어, 제품 관리자를 포함한 다양한 사용자들에게 편리한 도구로, RESTful API를 포함한 다양한 API 통신을 손쉽게 관리할 수 있습니다.
 
